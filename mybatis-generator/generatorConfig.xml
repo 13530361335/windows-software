@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN" "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+<generatorConfiguration>
+    <!-- jdbc路径 -->
+    <classPathEntry location="mysql-connector-java-5.1.46.jar"/>
+    <!-- 去除注释 -->
+    <context id="default">
+        <commentGenerator type="org.mybatis.generator.my.MyBatisGenerator">  <property name="suppressAllComments" value="true" />  </commentGenerator>
+        <jdbcConnection userId="root" password="19930913"  connectionURL="jdbc:mysql://localhost:3306/demo?useSSL=false" driverClass="com.mysql.jdbc.Driver"></jdbcConnection>
+        <!-- 实体 -->
+        <javaModelGenerator  targetPackage="com.demo.entity" targetProject="./src/main/java"/>
+        <!-- XML -->
+        <sqlMapGenerator     targetPackage="com.demo.mapper" targetProject="./src/main/java"/>
+        <!-- 接口 -->
+        <javaClientGenerator targetPackage="com.demo.dao"    targetProject="./src/main/java" type="XMLMAPPER"/>
+        <!-- 表 -->
+        <table  tableName="%" enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false"></table>
+    </context>
+</generatorConfiguration>
