@@ -1,5 +1,6 @@
 **Linux:**
 ```
+命令:
 cat  /proc/cpuinfo       查看cpu
 free -h                  查看内存
 df   -h                  查看磁盘
@@ -27,6 +28,7 @@ alt  + left/right        切换代码视图
 
 **Google Chrome:**
 ```
+快捷键:
 Ctrl + U                 查看源码
 Ctrl + F5                刷新(忽略缓存)
 Ctrl + Shift + delete    清除缓存
