@@ -23,7 +23,15 @@ alt  + left/right        切换代码视图
 1.Prefernces ⇒ Editor ⇒ Inspections ⇒ SQL ⇒ No data sources configure  
 2.Prefernces ⇒ Editor ⇒ Inspections ⇒ SQL ⇒ SQL dialect detection      
 3.Prefernces ⇒ Editor ⇒ Color Scheme ⇒ General ⇒ Code ⇒ Injected language fragment ⇒ Background
+```
 
+**Visual Studio Code:**
+```
+快捷键:
+
+
+插件:
+1.Markdown Preview Enhanced
 ```
 
 **Google Chrome:**
