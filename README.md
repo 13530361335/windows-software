@@ -43,8 +43,8 @@ Ctrl + W                 关闭标签
 
 **装机推荐软件**
 ```
-环境:    JDK      Git          MySql           Redis  MongoDB  IIS(FTP)  Jenkins         
+环境:    JDK      Git          MySql           Redis            MongoDB   IIS(FTP)  Jenkins         
 编辑:    IDEA     VSCode       Office          BeyondCompare
 图形:    Chrome   TortoiseGit  Navicat         RedisDManager    Studio3T  
-工具:    Postman  Xshell       Everything      好压  jd-gui     百度网盘   搜狗输入法   
+工具:    Postman  Xshell       Everything      好压             jd-gui    百度网盘   搜狗输入法   
 ```
