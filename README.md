@@ -1,11 +1,3 @@
-**Linux:**
-```
-命令:
-cat  /proc/cpuinfo       查看cpu
-free -h                  查看内存
-df   -h                  查看磁盘
-```
-
 **IntelliJ IDEA:**
 ```
 快捷键:
@@ -47,6 +39,14 @@ Ctrl + W                 关闭标签
 插件:
 1.谷歌访问助手
 2.JSON-handle
+```
+
+**Linux:**
+```
+命令:
+cat  /proc/cpuinfo       查看cpu
+free -h                  查看内存
+df   -h                  查看磁盘
 ```
 
 **装机推荐软件**
