@@ -35,4 +35,16 @@ Ctrl + Shift + delete    清除缓存
 Ctrl + Tab(1~9)          切换标签
 Ctrl + T                 打开标签
 Ctrl + W                 关闭标签
+
+插件:
+1.谷歌访问助手
+2.JSON-handle
+```
+
+**装机推荐软件**
+```
+环境:    JDK      Git          MySql           Redis  MongoDB  IIS(FTP)  Jenkins         
+编辑:    IDEA     VSCode       Office          BeyondCompare
+图形:    Chrome   TortoiseGit  Navicat         RedisDManager    Studio3T  
+工具:    Postman  Xshell       Everything      好压  jd-gui     百度网盘   搜狗输入法   
 ```
