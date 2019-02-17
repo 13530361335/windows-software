@@ -56,3 +56,4 @@ df   -h                  查看磁盘
 图形:    Chrome   TortoiseGit  Navicat         RedisDManager    Studio3T  
 工具:    Postman  Xshell       Everything      好压             jd-gui    百度网盘   搜狗输入法   
 ```
+xshell: https://raw.githubusercontent.com/13530361335/windows-software/master/xshell6%20plus.7z
