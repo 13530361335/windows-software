@@ -43,6 +43,7 @@ Ctrl + W                 关闭标签
 
 **Linux:**
 ```
+47.105.168.197
 命令:
 cat  /proc/cpuinfo       查看cpu
 free -h                  查看内存
